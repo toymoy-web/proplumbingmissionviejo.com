@@ -1,0 +1,24 @@
+{
+  "name": "Mission Viejo Pro Plumbing",
+  "short_name": "MV Pro Plumbing",
+  "description": "24/7 emergency plumber line for Mission Viejo, CA",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#158066",
+  "icons": [
+    {
+      "src": "/img/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/img/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
