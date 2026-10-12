@@ -1,1 +1,21 @@
-# Intentionally empty: Cloudflare Pages resolves slug/index.html natively.
+# 301s for renamed blog posts (slug now includes the city).
+/blog/backflow-test-notice-from-water-district/ /blog/backflow-test-notice-mission-viejo-water-district/ 301
+/blog/backflow-test-notice-from-water-district /blog/backflow-test-notice-mission-viejo-water-district/ 301
+/blog/burst-pipe-first-hour-checklist/ /blog/burst-pipe-first-hour-checklist-mission-viejo/ 301
+/blog/burst-pipe-first-hour-checklist /blog/burst-pipe-first-hour-checklist-mission-viejo/ 301
+/blog/california-water-heater-strapping-permit-rules/ /blog/water-heater-strapping-permit-rules-mission-viejo/ 301
+/blog/california-water-heater-strapping-permit-rules /blog/water-heater-strapping-permit-rules-mission-viejo/ 301
+/blog/does-insurance-cover-burst-pipe-or-slab-leak-california/ /blog/insurance-burst-pipe-slab-leak-mission-viejo/ 301
+/blog/does-insurance-cover-burst-pipe-or-slab-leak-california /blog/insurance-burst-pipe-slab-leak-mission-viejo/ 301
+/blog/garbage-disposal-humming-or-jammed/ /blog/garbage-disposal-humming-or-jammed-mission-viejo/ 301
+/blog/garbage-disposal-humming-or-jammed /blog/garbage-disposal-humming-or-jammed-mission-viejo/ 301
+/blog/sewer-line-scope-before-buying-a-home/ /blog/sewer-line-scope-before-buying-mission-viejo-home/ 301
+/blog/sewer-line-scope-before-buying-a-home /blog/sewer-line-scope-before-buying-mission-viejo-home/ 301
+/blog/signs-of-a-slab-leak-single-story-homes/ /blog/signs-of-a-slab-leak-single-story-mission-viejo-homes/ 301
+/blog/signs-of-a-slab-leak-single-story-homes /blog/signs-of-a-slab-leak-single-story-mission-viejo-homes/ 301
+/blog/tree-roots-in-your-sewer-line/ /blog/tree-roots-in-your-sewer-line-mission-viejo/ 301
+/blog/tree-roots-in-your-sewer-line /blog/tree-roots-in-your-sewer-line-mission-viejo/ 301
+/blog/why-your-toilet-keeps-running/ /blog/why-your-toilet-keeps-running-mission-viejo/ 301
+/blog/why-your-toilet-keeps-running /blog/why-your-toilet-keeps-running-mission-viejo/ 301
+/blog/winter-storm-plumbing-checklist-south-orange-county/ /blog/winter-storm-plumbing-checklist-mission-viejo/ 301
+/blog/winter-storm-plumbing-checklist-south-orange-county /blog/winter-storm-plumbing-checklist-mission-viejo/ 301
