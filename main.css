@@ -299,3 +299,6 @@ main p{font-size:max(16px,1em);line-height:1.7}
 .localnote h2{margin-bottom:14px}
 main a,.prose,.card h3{overflow-wrap:anywhere}
 .postlist>*,.cards>*{min-width:0}
+.social-h{margin-top:18px}
+.social{list-style:none;display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:8px}
+.social a{display:inline-block;padding:4px 0;font-weight:700}
